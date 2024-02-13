@@ -1,0 +1,25 @@
+INSPECIONANDO OS ITENS QUE APARECEM AO LONGO DO FLUXO DE CADASTRO:
+observar e anotar identificadores:
+
+na página de entrada:
+EBAC store é o título da página : text 
+ícone do coração: Id "wishlist"
+carrinho: Id "cart"
+Search Products: Accessibility Id "search products"
+profile icon: text "profile"
+
+na página de login:
+Welcome to EBAC Shop: Id "PageTitle"
+Login to your account: Id "PageDesc"
+Email: Text
+Password: Text
+Login: Accessibility Id "Login"
+sign up: Text
+
+página de Cadastro
+itens de cadastro (First Name, Last Name, Phone Number, Email Address,Password, Re-enter Password): Text
+Create : Accessibility Id
+Sign In: Text
+Have an accoun: Text
+Login to your account: Id "PageDesc"
+  
